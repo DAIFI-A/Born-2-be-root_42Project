@@ -1,4 +1,5 @@
-<image></image>
+<image>![Screenshot 2022-03-02 020809](https://user-images.githubusercontent.com/74793035/156275442-6713abe0-9b79-4161-a564-dec4cd81696a.png)
+</image>
 # Born-2-be-root_42Project
 Born2beroot is the first System Administration project on the 42-curriculum.
 
